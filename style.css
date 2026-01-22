@@ -21,7 +21,7 @@ sombre*/
         radial-gradient(circle,
             rgba(0, 0, 0, 0) 40%,
             rgba(0, 0, 0, 0.8) 100%),
-        url('./image/mont\ blanc.jfif');
+        url('image/mont\ blanc.jfif');
 
     background-size: cover;
     background-position: center;
